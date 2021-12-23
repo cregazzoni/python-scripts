@@ -1,0 +1,9 @@
+{
+    "certificate_password": "4dzVdOTpPytZ0g87",
+    "kafka_namespace": "otalio-hq-preprod-kafka",
+    "secret_clusterCaCert": "otalio-hq-preprod-cluster-cluster-ca-cert",
+    "secret_clusterCa": "otalio-hq-preprod-cluster-cluster-ca",
+    "pem_certificate": "/root/git_projects/k8s-assets-otalio/utilities/certificates/msccruises.pem",
+    "key_certificate": "/root/git_projects/k8s-assets-otalio/utilities/certificates/msccruises.key",
+    "destination_alias": "*.msccruises.com"
+}
